@@ -1,2 +1,1 @@
-# prep-henry2
-repositorio para el modulo 2
+este repositorio es de github yes un ensayo
